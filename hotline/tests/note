@@ -1,0 +1,5 @@
+I tested only files where I feel testing is necessary.
+I didn't test for example initialize_level because it only applies methods
+of add_object_functions and they have been tested. I didn't test
+button and main because I think that it is best tested by playing the game.
+I also didn't test methods that use randomization.
